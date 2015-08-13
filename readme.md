@@ -12,3 +12,5 @@ IVR -> (case): comment
 (case) <- Spark: comment
 
 @enduml
+
+http://10.224.56.239:8080/docs/webex-telephony-dsa/myfilename.png
